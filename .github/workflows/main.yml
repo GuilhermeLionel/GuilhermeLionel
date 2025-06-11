@@ -2,8 +2,11 @@ name: Generate Snake Game 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write  # 🔑 Isso permite o push no repositório
 
 jobs:
   generate:
