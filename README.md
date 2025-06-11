@@ -61,7 +61,7 @@
 
 ### 🐍 Snake comendo meus commits!
 
-![snake gif](https://github.com/guilhermelionel/guilhermelionel/blob/output/dist/github-contribution-grid-snake.svg)
+![snake gif dark](https://github.com/guilhermelionel/guilhermelionel/blob/output/dist/github-contribution-grid-snake-dark.svg)
 
 
 ---
