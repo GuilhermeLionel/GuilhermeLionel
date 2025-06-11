@@ -55,6 +55,9 @@
 
 - 🔭 Sempre mexendo em algum projeto pessoal.
 - 🎮 Curto jogar nas horas vagas (e também estudar como jogos são feitos).
+<p align="center">
+  <img src="https://github.com/GuilhermeLionel/GuilhermeLionel/blob/main/pasta/X.gif" alt="MegaMan code++" />
+</p>
 - 🧩 Gosto de desafios que envolvem lógica e criatividade.
 
 ---
