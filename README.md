@@ -61,10 +61,8 @@
 
 ### 🐍 Snake comendo meus commits!
 
-![snake gif dark](https://github.com/guilhermelionel/guilhermelionel/blob/output/dist/github-contribution-grid-snake-dark.svg)
-
+![snake gif dark](https://github.com/guilhermelionel/guilhermelionel/raw/output/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
