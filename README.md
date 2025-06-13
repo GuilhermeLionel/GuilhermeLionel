@@ -47,6 +47,9 @@
   <a href="https://www.linkedin.com/in/guilherme-lionel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/lionel.guilherme" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
